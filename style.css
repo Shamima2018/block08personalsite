@@ -1,0 +1,18 @@
+#about, #ed,#interest {
+    color:white;
+    text-align: centre;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px
+}
+
+#intern, #project {
+    color:beige;
+    text-align: centre;
+}
